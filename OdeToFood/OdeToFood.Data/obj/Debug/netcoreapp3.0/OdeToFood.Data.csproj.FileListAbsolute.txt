@@ -11,3 +11,16 @@ C:\Users\Hasitha\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\O
 C:\Users\Hasitha\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.csproj.CopyComplete
 C:\Users\Hasitha\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.dll
 C:\Users\Hasitha\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.pdb
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Data.deps.json
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Data.runtimeconfig.json
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Data.runtimeconfig.dev.json
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Data.dll
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Data.pdb
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Core.dll
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.0\OdeToFood.Core.pdb
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.csproj.CopyComplete
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.dll
+C:\Users\Roshan\Documents\GitHub\OdeToFood.Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.0\OdeToFood.Data.pdb

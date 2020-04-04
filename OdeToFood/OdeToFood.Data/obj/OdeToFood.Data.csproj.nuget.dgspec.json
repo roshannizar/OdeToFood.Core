@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hasitha\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {}
+    "C:\\Users\\Roshan\\Documents\\GitHub\\OdeToFood.Core\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hasitha\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+    "C:\\Users\\Roshan\\Documents\\GitHub\\OdeToFood.Core\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hasitha\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Roshan\\Documents\\GitHub\\OdeToFood.Core\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "projectName": "OdeToFood.Core",
-        "projectPath": "C:\\Users\\Hasitha\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
-        "packagesPath": "C:\\Users\\Hasitha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hasitha\\source\\repos\\OdeToFood\\OdeToFood.Core\\obj\\",
+        "projectPath": "C:\\Users\\Roshan\\Documents\\GitHub\\OdeToFood.Core\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "packagesPath": "C:\\Users\\Roshan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roshan\\Documents\\GitHub\\OdeToFood.Core\\OdeToFood\\OdeToFood.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hasitha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Roshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -50,20 +50,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -71,27 +57,22 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
-      },
-      "runtimes": {
-        "win81-x64": {
-          "#import": []
-        }
       }
     },
-    "C:\\Users\\Hasitha\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+    "C:\\Users\\Roshan\\Documents\\GitHub\\OdeToFood.Core\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hasitha\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Roshan\\Documents\\GitHub\\OdeToFood.Core\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "projectName": "OdeToFood.Data",
-        "projectPath": "C:\\Users\\Hasitha\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
-        "packagesPath": "C:\\Users\\Hasitha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hasitha\\source\\repos\\OdeToFood\\OdeToFood.Data\\obj\\",
+        "projectPath": "C:\\Users\\Roshan\\Documents\\GitHub\\OdeToFood.Core\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "packagesPath": "C:\\Users\\Roshan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roshan\\Documents\\GitHub\\OdeToFood.Core\\OdeToFood\\OdeToFood.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hasitha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Roshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,13 +80,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Hasitha\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
-                "projectPath": "C:\\Users\\Hasitha\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
+              "C:\\Users\\Roshan\\Documents\\GitHub\\OdeToFood.Core\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+                "projectPath": "C:\\Users\\Roshan\\Documents\\GitHub\\OdeToFood.Core\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
               }
             }
           }
@@ -144,31 +125,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win81-x64": {
-          "#import": []
         }
       }
     }
